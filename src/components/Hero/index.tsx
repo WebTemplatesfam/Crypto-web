@@ -12,7 +12,7 @@ const Hero : Component = () => {
           {/* Badge Text */}
           <div class="bg-white/10 p-1 mb-6 rounded-full pl-1 pr-3 max-w-[355px]" data-aos="fade-down" data-aos-delay="400">
             <div class="flex items-center justify-between text-sm lg:text-base">
-              <div class="bg-white text-darkblue rounded-full font-medium py-1 px-4">75% SAVE</div>
+              <div class="bg-white text-darkblue rounded-full font-medium py-1 px-4">75%</div>
               <div>For the Black Friday weekend</div>
             </div>
           </div>
