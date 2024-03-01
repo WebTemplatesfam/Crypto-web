@@ -18,7 +18,7 @@ const Hero : Component = () => {
           </div>
           {/* Title */}
           <h1 class="text-[32px] lg:text-[64px] font-bold leading-tight mb-6" data-aos="fade-down" data-aos-delay="500">Fast & Secure platform to invest in crypto.</h1>
-          <p class="max-w-[440px] leading-relaxed mb-8" data-aos="fade-down" data-aos-delay="600">Buy and sell crpyocurrencies, trusted by 10M wallets with over $30 billion in transactions.</p>
+          <p class="max-w-[440px] leading-relaxed mb-8" data-aos="fade-down" data-aos-delay="600">Buy and sell crpyocurrencies, trusted by 10M wallets with over $30 billion in transactions. by elgato</p>
           <button class="btn gap-x-6 pl-6 text-sm lg:h-16 lg:text-base" data-aos="fade-down" data-aos-delay="700">
           Try for free
             <img src={arrowIcon} alt="Arrow Circle Right" />
